@@ -1,0 +1,14 @@
+n : int ;
+x : int ;
+sum : inte ;
+BEGIN
+sum = # ;
+read ( n ) ;
+while n > 0 do
+BEGIN
+	n = n - 1 ;
+	read ( x ) ;
+	sum = sum + x ;
+ENd
+write ( sum ) ;
+END

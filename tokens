@@ -1,0 +1,37 @@
+identifier 0
+constant 1
++ 
+- 
+* 
+/ 
+= 
+== 
+< 
+> 
+<= 
+>= 
+&& 
+|| 
+not 
+space 
+:
+( 
+) 
+; 
+{ 
+} 
+[ 
+] 
+array 
+char  
+while 
+else 
+if 
+int 
+read
+write
+string
+BEGIN
+END
+then
+do
